@@ -1,0 +1,21 @@
+.red {
+  font-size:55;
+  color: green;
+}
+
+a {
+  font-size: 70;
+}
+p {
+  text-align: center;
+}
+
+
+.test {
+  height:100;
+  width:333;
+}
+
+body {
+  background-color:#f6f3ff;
+}
